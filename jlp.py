@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
-print("Hello World! - JLP")
-
+print("Hello World!")
+print("What's up?? - the World")
